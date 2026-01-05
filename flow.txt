@@ -9,4 +9,6 @@
 9.now type git add data.dvs .gitignore
 10.now "dvc commit" and "dvc push"
 11.do git commit and push to maek this as first stage
-12.
+12.now change mycode.py to add new row and check changes via "dvc status"
+13.now change the mycode to add a new row
+14.
