@@ -10,5 +10,12 @@
 10.now "dvc commit" and "dvc push"
 11.do git commit and push to maek this as first stage
 12.now change mycode.py to add new row and check changes via "dvc status"
-13.now change the mycode to add a new row
-14.
+13.now change the mycode to add a new row check status in dvc status
+14.not dvc commit and dvc push
+15.then git commit and push to save version 2 of data
+
+
+to roll back to version 1 of data adn git
+
+16.git log --oneline
+17.
