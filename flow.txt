@@ -1,3 +1,10 @@
-hi
 1.add mycode and run it to create data file
 2.once git commit before starting
+3.dvc init
+4.make folder s3(mkdir s3)
+5.run this command "dvc remote add -d myremote s3"
+6.now type "dvc add data/" this will give error as this means we are asking dvc to monitor data but it is now being monitor by git so 2 cant monitor same thing basicaly shoes cant be monitored by both counters
+7.now run the 2 commands shown by git
+8.then again type dvc add data/
+9.now type git add data.dvs .gitignore
+10.
