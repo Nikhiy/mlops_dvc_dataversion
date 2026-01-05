@@ -7,4 +7,6 @@
 7.now run the 2 commands shown by git
 8.then again type dvc add data/
 9.now type git add data.dvs .gitignore
-10.
+10.now "dvc commit" and "dvc push"
+11.do git commit and push to maek this as first stage
+12.
